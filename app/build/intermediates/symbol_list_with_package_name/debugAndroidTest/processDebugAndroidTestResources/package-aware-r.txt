@@ -1,3 +1,0 @@
-com.example.marvelapp.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

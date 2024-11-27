@@ -1,6 +1,0 @@
-com.example.marvelapp.test.app-androidTest-0 /Users/macbookpro/AndroidStudioProjects/MarvelApp/app/build/generated/res/resValues/androidTest/debug
-com.example.marvelapp.test.app-mergeDebugAndroidTestResources-1 /Users/macbookpro/AndroidStudioProjects/MarvelApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.marvelapp.test.app-mergeDebugAndroidTestResources-2 /Users/macbookpro/AndroidStudioProjects/MarvelApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.marvelapp.test.app-debugAndroidTest-3 /Users/macbookpro/AndroidStudioProjects/MarvelApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
-com.example.marvelapp.test.app-tracing-1.2.0-4 /Users/macbookpro/Downloads/gradle-7.5/caches/transforms-4/05d108933bdadda425c2c6e18fd3e3e2/transformed/tracing-1.2.0/res
-com.example.marvelapp.test.app-core-1.6.1-5 /Users/macbookpro/Downloads/gradle-7.5/caches/transforms-4/7c297c5fff21b45432bab22e5d253cb2/transformed/core-1.6.1/res
