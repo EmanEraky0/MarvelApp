@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_slider_dialog.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/slider_dialog.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_fragment_marvel_details.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/fragment_marvel_details.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.marvelapp-debug-4:/navigation_marvel_graph.xml.flat",
+        "source": "com.example.marvelapp-main-6:/navigation/marvel_graph.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_anamy.jpg.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/anamy.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_ic_back.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/xml_backup_rules.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_activity_main.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_ic_search.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_ic_cancel.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_muayan_background.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/muayan_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_row_marvel.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/row_marvel.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/navigation_marvel_graph.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/navigation/marvel_graph.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_fragment_marvel_list.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/fragment_marvel_list.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_slider_item.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/slider_item.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_row_details.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/row_details.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-debug-4:/layout_item_recycle.xml.flat",
+        "source": "/Users/macbookpro/Downloads/gradle-7.5/daemon/8.7/com.example.marvelapp-main-6:/layout/item_recycle.xml"
+    }
+]
